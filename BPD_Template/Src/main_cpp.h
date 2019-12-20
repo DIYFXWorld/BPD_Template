@@ -7,5 +7,6 @@
 
 extern Potentiometers Pots;
 extern Toggle_Switch	Tgl_Switch;
+typedef	Toggle_Switch	TGLSW;
 
 #endif /* MAIN_CPP_H_ */
